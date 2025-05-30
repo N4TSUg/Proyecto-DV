@@ -5,8 +5,9 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rb;
     SpriteRenderer sr;
     Animator animator;
-
+    public float fuerzaRebote = 10f;
     private bool puedeSaltar = true;
+    private bool recibiendoDanio;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,6 +24,7 @@ public class PlayerController : MonoBehaviour
     {
         SetupMoverseHorizontal();
         SetupSalto();
+        animator.SetBool("recibiendoDanio",recibiendoDanio);
     }
 
 
@@ -38,6 +40,8 @@ public class PlayerController : MonoBehaviour
 
     void SetupMoverseHorizontal()
     {
+        if(!recibiendoDanio)
+
         rb.linearVelocityX = 0;
         animator.SetInteger("Estado", 0);
 
@@ -57,11 +61,27 @@ public class PlayerController : MonoBehaviour
 
     void SetupSalto()
     {
+        if(!recibiendoDanio)
         if (!puedeSaltar) return;
-        if (Input.GetKeyUp(KeyCode.Space)|| Input.GetKey(KeyCode.W))
+        if (Input.GetKeyUp(KeyCode.Space)|| Input.GetKeyUp(KeyCode.W))
         {
             rb.linearVelocityY = 12.5f;
             animator.SetInteger("Estado", 2);
         }
+    }
+
+    public void RecibeDanio(Vector2 direction,int cantDanio)
+    {
+        if(!recibiendoDanio)
+        {
+            recibiendoDanio = true;
+            Vector2 rebote = new Vector2(transform.position.x,1).normalized;
+            rb.AddForce(rebote*fuerzaRebote,ForceMode2D.Impulse);
+        }
+    }
+    public void DesactivarDanio()
+    {
+        recibiendoDanio = false;
+        rb.linearVelocity = Vector2.zero;
     }
 }
