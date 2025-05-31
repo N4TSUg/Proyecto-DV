@@ -3,9 +3,10 @@ using UnityEngine;
 
 public class EnemieController : MonoBehaviour
 {
+    public int damage;
     public Transform player;
     public float detectionRadius = 5.0f;
-    public float speed =5.0f;
+    public float speed = 5.0f;
     public int puntosVida = 3;
     private Rigidbody2D rb;
     private Vector2 movement;
@@ -16,32 +17,33 @@ public class EnemieController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        damage = 1;
     }
 
     // Update is called once per frame
     void Update()
     {
-        float distanceToplayer = Vector2.Distance(transform.position,player.position);
-        if(distanceToplayer < detectionRadius)
+        float distanceToplayer = Vector2.Distance(transform.position, player.position);
+        if (distanceToplayer < detectionRadius)
         {
             Vector2 direction = (player.position - transform.position);
 
-            if(direction.x < 0)
+            if (direction.x < 0)
             {
-                transform.localScale = new Vector3(-0.6f,0.6f,1);
+                transform.localScale = new Vector3(-0.6f, 0.6f, 1);
             }
-            if(direction.x > 0)
+            if (direction.x > 0)
             {
-                transform.localScale = new Vector3(0.6f,0.6f,1);
+                transform.localScale = new Vector3(0.6f, 0.6f, 1);
             }
 
-            movement = new Vector2(direction.x,0);
+            movement = new Vector2(direction.x, 0);
             enMovimiento = true;
         }
         else
         {
             movement = Vector2.zero;
-            enMovimiento=false;
+            enMovimiento = false;
         }
 
         rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
