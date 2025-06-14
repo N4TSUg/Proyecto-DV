@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 0f3df76b08355c0b0a30e87839f01704
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 219593892218250233
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_0"
+  - first:
+      213: 8149282830850115024
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_1"
+  - first:
+      213: 2534196604501658586
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_2"
+  - first:
+      213: 5211322976486467163
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_3"
+  - first:
+      213: -5917169582612609797
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_4"
+  - first:
+      213: 949301493864308823
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_5"
+  - first:
+      213: -5073289777078374174
+    second: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_6"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a3844b772c0300800000000000000
+      internalID: 219593892218250233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_1"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5c203de81181170800000000000000
+      internalID: 8149282830850115024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_2"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 65
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb825292664b2320800000000000000
+      internalID: 2534196604501658586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_3"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 65
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ae47e2a6525840800000000000000
+      internalID: 5211322976486467163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_4"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 65
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf401a87d9df1eda0800000000000000
+      internalID: -5917169582612609797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_5"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 65
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a786dda89c2d00800000000000000
+      internalID: 949301493864308823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dise\xF1o sin t\xEDtulo (1)-Photoroom_6"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 65
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07f92c3dd0899b0800000000000000
+      internalID: -5073289777078374174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 29926b23b35e4d053b41aa38b9ca0cb0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_0": 219593892218250233
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_1": 8149282830850115024
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_2": 2534196604501658586
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_3": 5211322976486467163
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_4": -5917169582612609797
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_5": 949301493864308823
+      "Dise\xF1o sin t\xEDtulo (1)-Photoroom_6": -5073289777078374174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
