@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 5c4e06775c839bd4c860001bc5401099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4522614562956956733
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_0
+  - first:
+      213: 3550217269615677571
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_1
+  - first:
+      213: -8235615312532484606
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_2
+  - first:
+      213: -5614098928626772260
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_3
+  - first:
+      213: 7622163642383591257
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_4
+  - first:
+      213: -5233959706073543689
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_5
+  - first:
+      213: -3441446603044042926
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_6
+  - first:
+      213: -2401211524613661855
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_7
+  - first:
+      213: -2381757739336167308
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_8
+  - first:
+      213: -3668060571890578068
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_9
+  - first:
+      213: -7916511634574836978
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_10
+  - first:
+      213: -7135424856198765995
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_11
+  - first:
+      213: 3455571103102981418
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_12
+  - first:
+      213: 4505118494073742096
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_13
+  - first:
+      213: -1503013766002195947
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_14
+  - first:
+      213: -2636584618050192305
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_15
+  - first:
+      213: 588330272473935732
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_16
+  - first:
+      213: -7019103126919338057
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_17
+  - first:
+      213: -4118648494780822189
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_18
+  - first:
+      213: -2064911200565672662
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_19
+  - first:
+      213: -4064461601310048601
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_20
+  - first:
+      213: 7471530608480630689
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_21
+  - first:
+      213: -919438826213064946
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_22
+  - first:
+      213: -6618219274353600607
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_23
+  - first:
+      213: 311522096118852223
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_24
+  - first:
+      213: 376989391272039065
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_25
+  - first:
+      213: -4503940514157908326
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_26
+  - first:
+      213: -8706276155687876734
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_27
+  - first:
+      213: -3454076494015416121
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_28
+  - first:
+      213: 4390160266365202357
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+      Intro_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1943
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34de01bbfd83ce30800000000000000
+      internalID: 4522614562956956733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38056eefbc7e44130800000000000000
+      internalID: 3550217269615677571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 353
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ecbb5e18735bd80800000000000000
+      internalID: -8235615312532484606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_3
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 1724
+        width: 258
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6dc49e4c6b612b0800000000000000
+      internalID: -5614098928626772260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_4
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 1897
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957eb24e27d57c960800000000000000
+      internalID: 7622163642383591257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1724
+        width: 189
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb47c6c06d3d57b0800000000000000
+      internalID: -5233959706073543689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1724
+        width: 179
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c5105c868d30d0800000000000000
+      internalID: -3441446603044042926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1724
+        width: 233
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b14dc27de2daed0800000000000000
+      internalID: -2401211524613661855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_8
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1666
+        width: 418
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47094d584fb42fed0800000000000000
+      internalID: -2381757739336167308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_9
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1734
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d88d5185e681dc0800000000000000
+      internalID: -3668060571890578068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_10
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1660
+        width: 754
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b7be0ac96e22290800000000000000
+      internalID: -7916511634574836978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_11
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1721
+        width: 233
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a7ccf5e0e9fc90800000000000000
+      internalID: -7135424856198765995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_12
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1724
+        width: 179
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25de802c97a4ff20800000000000000
+      internalID: 3455571103102981418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_13
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 1724
+        width: 189
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ee46b665658e30800000000000000
+      internalID: 4505118494073742096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 2327
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512cae071f8342be0800000000000000
+      internalID: -1503013766002195947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 376
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cfbd45248f86bd0800000000000000
+      internalID: -2636584618050192305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 927
+        width: 565
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fea65044b2a2800800000000000000
+      internalID: 588330272473935732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_17
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 989
+        width: 346
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a32615e2279e90800000000000000
+      internalID: -7019103126919338057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_18
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 980
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d44e9f30f97d6c0800000000000000
+      internalID: -4118648494780822189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 950
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ce851436f753e0800000000000000
+      internalID: -2064911200565672662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 921
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aef2b245b12897c0800000000000000
+      internalID: -4064461601310048601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_21
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 841
+        width: 569
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a732f6a08530b760800000000000000
+      internalID: 7471530608480630689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_22
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 847
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3eda424f7d33f0800000000000000
+      internalID: -919438826213064946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 835
+        width: 206
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7928282ac5724a0800000000000000
+      internalID: -6618219274353600607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_24
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 831
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a69d622bfb25400800000000000000
+      internalID: 311522096118852223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_25
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 779
+        width: 112
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9925cde9ad55b3500800000000000000
+      internalID: 376989391272039065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1086
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ea02c17f9ce71c0800000000000000
+      internalID: -4503940514157908326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_27
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 314
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28745c7d6f71d2780800000000000000
+      internalID: -8706276155687876734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_28
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 325
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83f2baab7a010d0800000000000000
+      internalID: -3454076494015416121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Glacierzone
+        Intro_29
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 0
+        width: 478
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6bbf808bfcec30800000000000000
+      internalID: 4390160266365202357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

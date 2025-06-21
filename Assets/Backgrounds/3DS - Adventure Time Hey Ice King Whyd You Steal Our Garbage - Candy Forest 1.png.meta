@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: e74b16b74df97a443992fe95c97a2284
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4949655976863044669
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_0
+  - first:
+      213: -847161342107102697
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_1
+  - first:
+      213: -3086546818560089140
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_2
+  - first:
+      213: 8114687321016639058
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_3
+  - first:
+      213: -177200877791462793
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_4
+  - first:
+      213: 7471139205647251457
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_5
+  - first:
+      213: -6661089532234824367
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_6
+  - first:
+      213: -6485697138896292612
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_7
+  - first:
+      213: -2287564535782441960
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_8
+  - first:
+      213: 7882552438706996061
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_9
+  - first:
+      213: -3082029766995607717
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_10
+  - first:
+      213: -6189070650629579570
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_11
+  - first:
+      213: 5474113006713864195
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_12
+  - first:
+      213: -7461638987689523083
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_13
+  - first:
+      213: 5616428710720884309
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_14
+  - first:
+      213: 393366226007339568
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+      Forest 1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 4097
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 570, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d349f45f2e5b0b440800000000000000
+      internalID: 4949655976863044669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_1
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 740
+        width: 165
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71253407f374e34f0800000000000000
+      internalID: -847161342107102697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 517
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32d1195026a25d0800000000000000
+      internalID: -3086546818560089140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 169
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e109000292d9070800000000000000
+      internalID: 8114687321016639058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_4
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 538
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a3a519db47a8df0800000000000000
+      internalID: -177200877791462793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_5
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 203
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10839141681dea760800000000000000
+      internalID: 7471139205647251457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_6
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 67
+        width: 266
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1550216cc5e0f83a0800000000000000
+      internalID: -6661089532234824367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_7
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 75
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4b15b90dc2ef5a0800000000000000
+      internalID: -6485697138896292612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_8
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 75
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf7ebbc20f040e0800000000000000
+      internalID: -2287564535782441960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_9
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 75
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d530580fda3746d60800000000000000
+      internalID: 7882552438706996061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_10
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 0
+        width: 502
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ffb07914e6a35d0800000000000000
+      internalID: -3082029766995607717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_11
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 0
+        width: 122
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9d6bc8010c1aa0800000000000000
+      internalID: -6189070650629579570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_12
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 0
+        width: 313
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008689c6c4f7fb40800000000000000
+      internalID: 5474113006713864195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_13
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 0
+        width: 698
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788f88cfdee27890800000000000000
+      internalID: -7461638987689523083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_14
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 0
+        width: 362
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ec2d0c72091fd40800000000000000
+      internalID: 5616428710720884309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 27
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032bdc79f74857500800000000000000
+      internalID: 393366226007339568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy
+        Forest 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 4092
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13993fa7d07fdeb419f4fc52c2ded523
+      internalID: -236505983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e8dccc9bda92a4a48af8633bec6fd4ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Candy Forest 1_16: -236505983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

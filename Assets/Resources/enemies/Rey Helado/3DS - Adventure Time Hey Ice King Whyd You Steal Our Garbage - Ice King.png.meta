@@ -1,0 +1,3091 @@
+fileFormatVersion: 2
+guid: 31a97ac4ab97b2e42a605b7d33dafb1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7998829119141225860
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_0
+  - first:
+      213: -6274918505854110639
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_1
+  - first:
+      213: -6551494124855917244
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_2
+  - first:
+      213: 123733375068258239
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_3
+  - first:
+      213: 2184725471476441869
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_4
+  - first:
+      213: 6143989472671753464
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_5
+  - first:
+      213: 9156683388643875794
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_6
+  - first:
+      213: -5187186254925157884
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_7
+  - first:
+      213: -8147342971790779211
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_8
+  - first:
+      213: 9008350099547210560
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_9
+  - first:
+      213: -8917399677119868164
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_10
+  - first:
+      213: -377983469834818857
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_11
+  - first:
+      213: -7236811274557575236
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_12
+  - first:
+      213: 8768782998960145894
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_13
+  - first:
+      213: 2442712839692091478
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_14
+  - first:
+      213: 6065945681274617117
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_15
+  - first:
+      213: -6679294816488434607
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_16
+  - first:
+      213: -5567227915460817866
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_17
+  - first:
+      213: 5389069821741561590
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_18
+  - first:
+      213: 8488400256680642636
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_19
+  - first:
+      213: 1874176293117736286
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_20
+  - first:
+      213: -480841365747235005
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_21
+  - first:
+      213: 88112164858192279
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_22
+  - first:
+      213: 951357081802564309
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_23
+  - first:
+      213: -3459834544969126799
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_24
+  - first:
+      213: 7595954111705349447
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_25
+  - first:
+      213: 5326524264306081135
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_26
+  - first:
+      213: -2875529453768650504
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_27
+  - first:
+      213: 1490197992394523400
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_28
+  - first:
+      213: 2697271703460140909
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_29
+  - first:
+      213: 7877682988568334136
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_30
+  - first:
+      213: 7797721877646811976
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_31
+  - first:
+      213: -2928508916101299129
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_32
+  - first:
+      213: -2952380110263207741
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_33
+  - first:
+      213: 6754145973126032515
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_34
+  - first:
+      213: -3458543360077326151
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_35
+  - first:
+      213: 7061986027118058327
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_36
+  - first:
+      213: 912147081731257515
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_37
+  - first:
+      213: -2489435230452778941
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_38
+  - first:
+      213: -2773345915627693757
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_39
+  - first:
+      213: 6993373646016358586
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_40
+  - first:
+      213: 8948915909970774615
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_41
+  - first:
+      213: 1471569351068407893
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_42
+  - first:
+      213: 1843889608488255526
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_43
+  - first:
+      213: -227955135417268974
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_44
+  - first:
+      213: 7156242176735263448
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_45
+  - first:
+      213: 4529491529938628730
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_46
+  - first:
+      213: 1733605205638609944
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_47
+  - first:
+      213: 4177114701682383769
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_48
+  - first:
+      213: -6256595260852769944
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_49
+  - first:
+      213: 7275556518962440834
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_50
+  - first:
+      213: -1241885078408420523
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_51
+  - first:
+      213: 3881767230633685315
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_52
+  - first:
+      213: 5143878589597772373
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_53
+  - first:
+      213: 523178991388957119
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_54
+  - first:
+      213: 8637421395995530354
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_55
+  - first:
+      213: 5529766276413578451
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_56
+  - first:
+      213: -2918190103000840982
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_57
+  - first:
+      213: -9053172755560410743
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_58
+  - first:
+      213: 7514011840099539119
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_59
+  - first:
+      213: 4959744282621201659
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_60
+  - first:
+      213: -6718539265364791964
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_61
+  - first:
+      213: -7661184596889587227
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_62
+  - first:
+      213: -5584200522728258336
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_63
+  - first:
+      213: -7125474633892422201
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_64
+  - first:
+      213: -8251534415919331441
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_65
+  - first:
+      213: 5819992206369369621
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_66
+  - first:
+      213: 5129484984775499778
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_67
+  - first:
+      213: 4918012359756173930
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_68
+  - first:
+      213: 2159369797959579240
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_69
+  - first:
+      213: -7319346411483456924
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_70
+  - first:
+      213: 355645134030773430
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_71
+  - first:
+      213: -6001538065623422418
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_72
+  - first:
+      213: -7023571035564895605
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_73
+  - first:
+      213: 1463961515306606582
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_74
+  - first:
+      213: -2181580376211764460
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_75
+  - first:
+      213: 6239671975268932972
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_76
+  - first:
+      213: 2216060166903115415
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_77
+  - first:
+      213: 2113339896327084900
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_78
+  - first:
+      213: 1882451617259657324
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_79
+  - first:
+      213: -3187054396299585934
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_80
+  - first:
+      213: -8065904516083628710
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_81
+  - first:
+      213: -2303717277036545421
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_82
+  - first:
+      213: 3318910362878138391
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_83
+  - first:
+      213: 7529211687382012692
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_84
+  - first:
+      213: 959510329733273559
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_85
+  - first:
+      213: 7207787326496837054
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_86
+  - first:
+      213: 226518134103973660
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_87
+  - first:
+      213: 7756571740419832017
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_88
+  - first:
+      213: -5377749705451667844
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_89
+  - first:
+      213: 5693747020428829253
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_90
+  - first:
+      213: 180735548612678738
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_91
+  - first:
+      213: 6092712321945069207
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_92
+  - first:
+      213: 5435380091063486440
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_93
+  - first:
+      213: 8709126901523228935
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_94
+  - first:
+      213: 4840927412803394347
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_95
+  - first:
+      213: -6826322169383551997
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_96
+  - first:
+      213: -3454862296518875837
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_97
+  - first:
+      213: 2880557393518325277
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_98
+  - first:
+      213: 3625568288959208442
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_99
+  - first:
+      213: -5476864696185471775
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_100
+  - first:
+      213: -5335889299551741781
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_101
+  - first:
+      213: -6427189831884909968
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_102
+  - first:
+      213: 1453114108219014875
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_103
+  - first:
+      213: -5302370232117325257
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_104
+  - first:
+      213: -5033050173560783333
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_105
+  - first:
+      213: 3930505497603445632
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_106
+  - first:
+      213: -2610961343693917146
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_107
+  - first:
+      213: -2449683067894475582
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_108
+  - first:
+      213: -1312032296398744938
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_109
+  - first:
+      213: 6250089395483609888
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_110
+  - first:
+      213: 9083376902630387754
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_111
+  - first:
+      213: -9199923564468058894
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_112
+  - first:
+      213: -1437822048698019148
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_113
+  - first:
+      213: -3557983959791883288
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_114
+  - first:
+      213: 1198554248042420563
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_115
+  - first:
+      213: -5451646360320221602
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_116
+  - first:
+      213: -2360113982016195593
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_117
+  - first:
+      213: 2715822053963712947
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_118
+  - first:
+      213: 786334182740128243
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_119
+  - first:
+      213: -4449335701422931891
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_120
+  - first:
+      213: 2450322609594359098
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_121
+  - first:
+      213: 5378989325823299008
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_122
+  - first:
+      213: -8058417429418846064
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_123
+  - first:
+      213: 9081576332087674595
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_124
+  - first:
+      213: 9023814728925610573
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_125
+  - first:
+      213: 7759386432697784995
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_126
+  - first:
+      213: 4247639845974978324
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_127
+  - first:
+      213: -7888333933331748584
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_128
+  - first:
+      213: 8672255758038066376
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_129
+  - first:
+      213: -4172609914854854629
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_130
+  - first:
+      213: 8296560449220044649
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_131
+  - first:
+      213: 6489686970667532562
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_132
+  - first:
+      213: -147374569530276767
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_133
+  - first:
+      213: -1518136457021619939
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_134
+  - first:
+      213: -6812811871304482615
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_135
+  - first:
+      213: 1618444809778709367
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_136
+  - first:
+      213: 6398099080133982288
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_137
+  - first:
+      213: 5091157999709337848
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_138
+  - first:
+      213: -3108854244293158621
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_139
+  - first:
+      213: 6919794430285680449
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_140
+  - first:
+      213: 1290524521178619453
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_141
+  - first:
+      213: -3649080011836172784
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_142
+  - first:
+      213: -8959163733735878349
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_143
+  - first:
+      213: 4263033999803630245
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_144
+  - first:
+      213: -855887032518989729
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_145
+  - first:
+      213: -4370501751296116337
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_146
+  - first:
+      213: -6470777843338378885
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_147
+  - first:
+      213: 4131571698656886243
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_148
+  - first:
+      213: -7580073124021336457
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_149
+  - first:
+      213: -6988458405583793834
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_150
+  - first:
+      213: -5951388395551116506
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_151
+  - first:
+      213: -5597996734330572024
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_152
+  - first:
+      213: 2263225434892452635
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_153
+  - first:
+      213: 3562419718871654659
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_154
+  - first:
+      213: -6845935959033325146
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_155
+  - first:
+      213: 7529593428471354187
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_156
+  - first:
+      213: -8533384538090779093
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_157
+  - first:
+      213: 2298608208645955065
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_158
+  - first:
+      213: 4812727869158380354
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_159
+  - first:
+      213: 9198349587557673685
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_160
+  - first:
+      213: -3037671730864539252
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_161
+  - first:
+      213: 8408307841985481064
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_162
+  - first:
+      213: 3948014532888706554
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_163
+  - first:
+      213: -4958330138519078373
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_164
+  - first:
+      213: -4595608585965321937
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_165
+  - first:
+      213: -7466280248097326851
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_166
+  - first:
+      213: -6678821975117166029
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_167
+  - first:
+      213: -8987923908192775524
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_168
+  - first:
+      213: -4897084866778491518
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_169
+  - first:
+      213: -6402130764718622449
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_170
+  - first:
+      213: 7203221732062247436
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_171
+  - first:
+      213: -3058196626024465834
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_172
+  - first:
+      213: 1417126022722552916
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_173
+  - first:
+      213: 4937804642052307539
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_174
+  - first:
+      213: -8498593051917254948
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_175
+  - first:
+      213: -7103309426504330846
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_176
+  - first:
+      213: -6834968613786050864
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_177
+  - first:
+      213: 217036474408665810
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_178
+  - first:
+      213: 3524710671650956773
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_179
+  - first:
+      213: 6635968643550152727
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_180
+  - first:
+      213: 8554876053872544401
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_181
+  - first:
+      213: 2113443495025274146
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_182
+  - first:
+      213: 5749142744439515230
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_183
+  - first:
+      213: -7242567475798565796
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_184
+  - first:
+      213: -8531604689742716922
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_185
+  - first:
+      213: 989456637832105057
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_186
+  - first:
+      213: 3490180817387015999
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_187
+  - first:
+      213: 4529997554725382165
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_188
+  - first:
+      213: 8538732613490477120
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_189
+  - first:
+      213: -5604554171984365835
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_190
+  - first:
+      213: -3105550981261622098
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_191
+  - first:
+      213: 653662234127225348
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_192
+  - first:
+      213: -3016311445159852341
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_193
+  - first:
+      213: 6127966872466862548
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_194
+  - first:
+      213: -4346690049949254253
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_195
+  - first:
+      213: -1176169946485265686
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_196
+  - first:
+      213: 1147367428562027595
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_197
+  - first:
+      213: 1081253463611776393
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_198
+  - first:
+      213: 7420907062651126666
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_199
+  - first:
+      213: -2048253235835323116
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_200
+  - first:
+      213: -213400525876618552
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle01
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1409
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfbdcb59d697b100800000000000000
+      internalID: 123733375068258239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle02
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1409
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4e6568fd5d34550800000000000000
+      internalID: 6143989472671753464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle03
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1409
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db96dc1703131f70800000000000000
+      internalID: 9156683388643875794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle04
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1409
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa56385996308b0800000000000000
+      internalID: -5187186254925157884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle05
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1409
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc922fcbb2deee80800000000000000
+      internalID: -8147342971790779211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle06
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1409
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043cddfefa6140d70800000000000000
+      internalID: 9008350099547210560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle07
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1409
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf256157d380f3480800000000000000
+      internalID: -8917399677119868164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle08
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1409
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daa68d690221caf0800000000000000
+      internalID: -377983469834818857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle09
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1409
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf2471fc7ea19b90800000000000000
+      internalID: -7236811274557575236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1409
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e50185bda9f0b970800000000000000
+      internalID: 8768782998960145894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1326
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d303755719e2450800000000000000
+      internalID: 6065945681274617117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1326
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cc15315bb3db2b0800000000000000
+      internalID: -5567227915460817866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1327
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6feaa4372d9ca40800000000000000
+      internalID: 5389069821741561590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk04
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1326
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c8ca5f0bdcc570800000000000000
+      internalID: 8488400256680642636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk05
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1326
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55bdb5a869620a10800000000000000
+      internalID: 1874176293117736286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk06
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1326
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34782515355b359f0800000000000000
+      internalID: -480841365747235005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk07
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1326
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79163ce0c89093100800000000000000
+      internalID: 88112164858192279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk08
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1326
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2e463b936e33d00800000000000000
+      internalID: 951357081802564309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk09
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1326
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6d75ffc23cffc0800000000000000
+      internalID: -3459834544969126799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1326
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d7d5ef4004a6960800000000000000
+      internalID: 7595954111705349447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirIdle01
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1238
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f052fe62311818d0800000000000000
+      internalID: -2875529453768650504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirIdle02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1239
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8030dadbd2f3ea410800000000000000
+      internalID: 1490197992394523400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirIdle03
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1241
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d675473d252ae6520800000000000000
+      internalID: 2697271703460140909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirIdle04
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1241
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fc0cab0f6235d60800000000000000
+      internalID: 7877682988568334136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirIdle05
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1239
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8432e6ecbb2173c60800000000000000
+      internalID: 7797721877646811976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirIdle0
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1238
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c73e18a8db57d0800000000000000
+      internalID: -2928508916101299129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirMove01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1148
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4308520f898ac00800000000000000
+      internalID: 912147081731257515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirMove02
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1149
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f485f8dfb37dd0800000000000000
+      internalID: -2489435230452778941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirMove03
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1148
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3491bb365981389d0800000000000000
+      internalID: -2773345915627693757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirMove04
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1147
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8226057447d0160800000000000000
+      internalID: 6993373646016358586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirMove05
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1146
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a46a25b9fe03c70800000000000000
+      internalID: 8948915909970774615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirMove06
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1147
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558d8c037801c6410800000000000000
+      internalID: 1471569351068407893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire01
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1054
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b6a7552cb1c29a0800000000000000
+      internalID: -6256595260852769944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire02
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1054
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aa8004b18f7f460800000000000000
+      internalID: 7275556518962440834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire03
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1055
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ab99d910f3cee0800000000000000
+      internalID: -1241885078408420523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire04
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1058
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3413ca2dabeced530800000000000000
+      internalID: 3881767230633685315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire05
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1056
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a66b4e25ab26740800000000000000
+      internalID: 5143878589597772373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire06
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1053
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99faf4584b24700800000000000000
+      internalID: 523178991388957119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire07
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1054
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2741ca32ff84ed770800000000000000
+      internalID: 8637421395995530354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire08
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1054
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd094612dadbc40800000000000000
+      internalID: 5529766276413578451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire0
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1055
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4039300918087d0800000000000000
+      internalID: -2918190103000840982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1052
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8563725f1274860800000000000000
+      internalID: 7514011840099539119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirFire11
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1052
+        width: 108
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dea6e6224f2c2a0800000000000000
+      internalID: -6718539265364791964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 944
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae7844de046bca0800000000000000
+      internalID: -6001538065623422418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 944
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b829e6a0b53478e90800000000000000
+      internalID: -7023571035564895605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_74
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 945
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff51b4ed39015410800000000000000
+      internalID: 1463961515306606582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_75
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 948
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b4fe2d43879b1e0800000000000000
+      internalID: -2181580376211764460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_76
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 946
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5dd03a94c79650800000000000000
+      internalID: 6239671975268932972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_77
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 942
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e27290bf601ce10800000000000000
+      internalID: 2216060166903115415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_78
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 922
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9c325077145d10800000000000000
+      internalID: 2113339896327084900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_79
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 923
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c681f91b5cfcf1a10800000000000000
+      internalID: 1882451617259657324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_80
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 922
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27657bc89ee45c3d0800000000000000
+      internalID: -3187054396299585934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_81
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 920
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55cd9ed396201090800000000000000
+      internalID: -8065904516083628710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_82
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 920
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a7e47975d8700e0800000000000000
+      internalID: -2303717277036545421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirGetHit01
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 833
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cf48387280441a0800000000000000
+      internalID: -6826322169383551997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirGetHit02
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 832
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee8c300bbc9f720800000000000000
+      internalID: 2880557393518325277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirGetHit03
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 832
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb9554562b905230800000000000000
+      internalID: 3625568288959208442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirGetHit04
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 833
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecbcf493944ef3b0800000000000000
+      internalID: -5476864696185471775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 754
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c45cdd8a3af00ed0800000000000000
+      internalID: -2449683067894475582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_110
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 754
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b8c38d037ccb650800000000000000
+      internalID: 6250089395483609888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fd7876d03f3fd0800000000000000
+      internalID: -2360113982016195593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 671
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9cdafd4c980b520800000000000000
+      internalID: 2715822053963712947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_119
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 672
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f8f4e5ce99ea00800000000000000
+      internalID: 786334182740128243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_120
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40093ec0c8c042c0800000000000000
+      internalID: -4449335701422931891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_131
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 592
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967e05185cd432370800000000000000
+      internalID: 8296560449220044649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1108ae8fee7eeae0800000000000000
+      internalID: -1518136457021619939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_135
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 592
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c00559e2b70471a0800000000000000
+      internalID: -6812811871304482615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_136
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 592
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7734f67cafed57610800000000000000
+      internalID: 1618444809778709367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 592
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058b32df63d9ac850800000000000000
+      internalID: 6398099080133982288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_138
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 592
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f830140a3d67a640800000000000000
+      internalID: 5091157999709337848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_139
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 592
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329d07649812bd4d0800000000000000
+      internalID: -3108854244293158621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_146
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 509
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b5c720dbd853c0800000000000000
+      internalID: -4370501751296116337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_149
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 509
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776093797ab2ec690800000000000000
+      internalID: -7580073124021336457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_150
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 509
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d5974b12040f90800000000000000
+      internalID: -6988458405583793834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_151
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 509
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6233bca39cb686da0800000000000000
+      internalID: -5951388395551116506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_152
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 509
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803fd6c21abef42b0800000000000000
+      internalID: -5597996734330572024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 422
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439627645d7e7860800000000000000
+      internalID: 7529593428471354187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_157
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 422
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec94379f3539980800000000000000
+      internalID: -8533384538090779093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_158
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 422
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd932abcfb46ef10800000000000000
+      internalID: 2298608208645955065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_159
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 422
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243dec18f7e3ac240800000000000000
+      internalID: 4812727869158380354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_160
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 422
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da6c36073a17af70800000000000000
+      internalID: 9198349587557673685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_161
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 422
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b291b7a508d5d0800000000000000
+      internalID: -3037671730864539252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_162
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 422
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8690da3ee6f40b470800000000000000
+      internalID: 8408307841985481064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_163
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 422
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd39e8dc4a2ac630800000000000000
+      internalID: 3948014532888706554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_164
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 422
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af4766209703bb0800000000000000
+      internalID: -4958330138519078373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_165
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 422
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f214dc2f65e1930c0800000000000000
+      internalID: -4595608585965321937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_167
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 421
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a811facce0053a0800000000000000
+      internalID: -6678821975117166029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_168
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 420
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92dde753da744380800000000000000
+      internalID: -8987923908192775524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 340
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a7dcb092b968440800000000000000
+      internalID: 4937804642052307539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_175
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 341
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3849418, y: 0.37294832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde7ed195aeee0a80800000000000000
+      internalID: -8498593051917254948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_177
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 340
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de965c42405521a0800000000000000
+      internalID: -6834968613786050864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_178
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 340
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.37204543, y: 0.38428468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d28e680681130300800000000000000
+      internalID: 217036474408665810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_180
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 340
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718007b8252b71c50800000000000000
+      internalID: 6635968643550152727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_181
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 339
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8190027609b670800000000000000
+      internalID: 8554876053872544401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_183
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 340
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e455adde09cf40800000000000000
+      internalID: 5749142744439515230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_184
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 340
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c9a37e04b3d7b90800000000000000
+      internalID: -7242567475798565796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 81
+        width: 230
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4090226ddd6e4d0800000000000000
+      internalID: -3105550981261622098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1bfb43769ea0550800000000000000
+      internalID: 6127966872466862548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated02
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dbc08ed647da3c0800000000000000
+      internalID: -4346690049949254253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated03
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea61405aa76dafe0800000000000000
+      internalID: -1176169946485265686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated04
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b440b46e8944cef00800000000000000
+      internalID: 1147367428562027595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated05
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9db2eb42610f00800000000000000
+      internalID: 1081253463611776393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated06
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830284e7ab5cf660800000000000000
+      internalID: 7420907062651126666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated07
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dbdfbb8842393e0800000000000000
+      internalID: -2048253235835323116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeated08
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1e343a59d90df0800000000000000
+      internalID: -213400525876618552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c6069c7ac033ee94b8c17ac31fac73b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_0: -581880224
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Ice King_1: -953262883
+      AirFire0: -2918190103000840982
+      AirFire01: -6256595260852769944
+      AirFire02: 7275556518962440834
+      AirFire03: -1241885078408420523
+      AirFire04: 3881767230633685315
+      AirFire05: 5143878589597772373
+      AirFire06: 523178991388957119
+      AirFire07: 8637421395995530354
+      AirFire08: 5529766276413578451
+      AirFire10: 7514011840099539119
+      AirFire11: -6718539265364791964
+      AirGetHit01: -6826322169383551997
+      AirGetHit02: 2880557393518325277
+      AirGetHit03: 3625568288959208442
+      AirGetHit04: -5476864696185471775
+      AirIdle0: -2928508916101299129
+      AirIdle01: -2875529453768650504
+      AirIdle02: 1490197992394523400
+      AirIdle03: 2697271703460140909
+      AirIdle04: 7877682988568334136
+      AirIdle05: 7797721877646811976
+      AirMove01: 912147081731257515
+      AirMove02: -2489435230452778941
+      AirMove03: -2773345915627693757
+      AirMove04: 6993373646016358586
+      AirMove05: 8948915909970774615
+      AirMove06: 1471569351068407893
+      Armor: -3105550981261622098
+      Defeated01: 6127966872466862548
+      Defeated02: -4346690049949254253
+      Defeated03: -1176169946485265686
+      Defeated04: 1147367428562027595
+      Defeated05: 1081253463611776393
+      Defeated06: 7420907062651126666
+      Defeated07: -2048253235835323116
+      Defeated08: -213400525876618552
+      Idle01: 123733375068258239
+      Idle02: 6143989472671753464
+      Idle03: 9156683388643875794
+      Idle04: -5187186254925157884
+      Idle05: -8147342971790779211
+      Idle06: 9008350099547210560
+      Idle07: -8917399677119868164
+      Idle08: -377983469834818857
+      Idle09: -7236811274557575236
+      Idle10: 8768782998960145894
+      Walk0: 5389069821741561590
+      Walk01: 6065945681274617117
+      Walk02: -5567227915460817866
+      Walk04: 8488400256680642636
+      Walk05: 1874176293117736286
+      Walk06: -480841365747235005
+      Walk07: 88112164858192279
+      Walk08: 951357081802564309
+      Walk09: -3459834544969126799
+      Walk10: 7595954111705349447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

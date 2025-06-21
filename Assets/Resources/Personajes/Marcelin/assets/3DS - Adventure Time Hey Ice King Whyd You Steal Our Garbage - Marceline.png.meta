@@ -1,0 +1,4139 @@
+fileFormatVersion: 2
+guid: 907d30528a7e0a0419659ccfb114ca33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2112283259984140728
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_0
+  - first:
+      213: -2946588820503051101
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_1
+  - first:
+      213: -4797856878399974806
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_2
+  - first:
+      213: 3595112630159259460
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_3
+  - first:
+      213: 6718373984602263157
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_4
+  - first:
+      213: -4190088574545844741
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_5
+  - first:
+      213: 8020854351074272711
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_6
+  - first:
+      213: -5036037096438107705
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_7
+  - first:
+      213: 1676466062772218288
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_8
+  - first:
+      213: -6731152825839803574
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_9
+  - first:
+      213: -8815494428666376072
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_10
+  - first:
+      213: -8645372917625515101
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_11
+  - first:
+      213: -8552938885552488313
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_12
+  - first:
+      213: -5350334451759217141
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_13
+  - first:
+      213: 9026794987855508114
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_14
+  - first:
+      213: 1311034018818607058
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_15
+  - first:
+      213: -2544096271456627064
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_16
+  - first:
+      213: 3789638571810055833
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_17
+  - first:
+      213: -93379729776462798
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_18
+  - first:
+      213: 1779390102476493687
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_19
+  - first:
+      213: -7834548172132603534
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_20
+  - first:
+      213: 8498530856249202
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_21
+  - first:
+      213: 7111191784237326472
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_22
+  - first:
+      213: -398794280081499256
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_23
+  - first:
+      213: 4364523440334232018
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_24
+  - first:
+      213: -986653098072298098
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_25
+  - first:
+      213: 4253657176539883756
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_26
+  - first:
+      213: 4260019573799007560
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_27
+  - first:
+      213: -7920052607623624461
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_28
+  - first:
+      213: -2951350852609931331
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_29
+  - first:
+      213: 4715697170429902613
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_30
+  - first:
+      213: -6530385860602424258
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_31
+  - first:
+      213: -8557204969429359231
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_32
+  - first:
+      213: -7038864388394300086
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_33
+  - first:
+      213: -7207142928252511019
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_34
+  - first:
+      213: 2667955986521622899
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_35
+  - first:
+      213: -787121227755448032
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_36
+  - first:
+      213: -8905530318413395953
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_37
+  - first:
+      213: 4892362973997015607
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_38
+  - first:
+      213: 8843492905136017496
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_39
+  - first:
+      213: 6671404820098673037
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_40
+  - first:
+      213: -1597408425114336029
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_41
+  - first:
+      213: 7415000857075855013
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_42
+  - first:
+      213: 6855798447402557748
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_43
+  - first:
+      213: 1178126690463347393
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_44
+  - first:
+      213: -1177717830183935903
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_45
+  - first:
+      213: -2418326626962689536
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_46
+  - first:
+      213: 8420513952382952171
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_47
+  - first:
+      213: -4568641021996493454
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_48
+  - first:
+      213: -4268291653524268922
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_49
+  - first:
+      213: -854483003594575600
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_50
+  - first:
+      213: 4330277845612972127
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_51
+  - first:
+      213: 1364330254059411570
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_52
+  - first:
+      213: 3320233882332328211
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_53
+  - first:
+      213: 2253657552205638607
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_54
+  - first:
+      213: 9069394407274115700
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_55
+  - first:
+      213: 756736365208861130
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_56
+  - first:
+      213: 5664115040130926668
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_57
+  - first:
+      213: 6723917246558638762
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_58
+  - first:
+      213: 5081122536049452669
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_59
+  - first:
+      213: 4015082170133845318
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_60
+  - first:
+      213: 6723863132792177960
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_61
+  - first:
+      213: 8960288990653765877
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_62
+  - first:
+      213: -2638024507535080346
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_63
+  - first:
+      213: 6502973160057375422
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_64
+  - first:
+      213: -4933795296079690341
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_65
+  - first:
+      213: -4519676309012806556
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_66
+  - first:
+      213: -8349247759958703389
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_67
+  - first:
+      213: 2599486235852801086
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_68
+  - first:
+      213: 1539977266662278122
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_69
+  - first:
+      213: 7807489916839862605
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_70
+  - first:
+      213: -4846806194070406638
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_71
+  - first:
+      213: 3192363369885150981
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_72
+  - first:
+      213: -3995347998070231458
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_73
+  - first:
+      213: -1692287549945436306
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_74
+  - first:
+      213: -5945254188030448052
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_75
+  - first:
+      213: -3523399484918936319
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_76
+  - first:
+      213: 8532884770793221633
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_77
+  - first:
+      213: 335131643747501180
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_78
+  - first:
+      213: -4471898117124274277
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_79
+  - first:
+      213: -7999727576369008237
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_80
+  - first:
+      213: 2677426093274780476
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_81
+  - first:
+      213: -1869927228896859794
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_82
+  - first:
+      213: 7127912452930083899
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_83
+  - first:
+      213: 3231851106924214271
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_84
+  - first:
+      213: 1025940386604543908
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_85
+  - first:
+      213: -2401742133326190535
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_86
+  - first:
+      213: 5777552817373154643
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_87
+  - first:
+      213: 1880637865287553328
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_88
+  - first:
+      213: 8493758216693114092
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_89
+  - first:
+      213: -6757143429832501253
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_90
+  - first:
+      213: 2416389801387069707
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_91
+  - first:
+      213: 426001013041074942
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_92
+  - first:
+      213: -4769215282533749415
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_93
+  - first:
+      213: -3237588727317752155
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_94
+  - first:
+      213: 3437039374607291530
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_95
+  - first:
+      213: -6806397432340662673
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_96
+  - first:
+      213: 9136141638591775071
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_97
+  - first:
+      213: -5147380943496900358
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_98
+  - first:
+      213: 1308318125318722527
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_99
+  - first:
+      213: 8310853748373784561
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_100
+  - first:
+      213: 3476689892410098225
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_101
+  - first:
+      213: 8943470511767587914
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_102
+  - first:
+      213: -8540596216401522562
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_103
+  - first:
+      213: -1248882855509444532
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_104
+  - first:
+      213: 8342535276180990506
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_105
+  - first:
+      213: 1141562545215104148
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_106
+  - first:
+      213: 3346578300682730672
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_107
+  - first:
+      213: -3918477089744450788
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_108
+  - first:
+      213: 1815553131146900141
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_109
+  - first:
+      213: 5104391897372924259
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_110
+  - first:
+      213: -62545738641414686
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_111
+  - first:
+      213: 85336790399172998
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_112
+  - first:
+      213: -4598237530074151603
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_113
+  - first:
+      213: 3549948107848150025
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_114
+  - first:
+      213: -3885557285600379394
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_115
+  - first:
+      213: -4897887457656002770
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_116
+  - first:
+      213: 1398108110312648823
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_117
+  - first:
+      213: -2269926744455943183
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_118
+  - first:
+      213: -1940245474976626015
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_119
+  - first:
+      213: 7764384779001731590
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_120
+  - first:
+      213: -7012793132779150330
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_121
+  - first:
+      213: 7327926338012309050
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_122
+  - first:
+      213: -8811755647085489874
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_123
+  - first:
+      213: 152547744303420844
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_124
+  - first:
+      213: -3094270600693983067
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_125
+  - first:
+      213: -6876360744171914303
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_126
+  - first:
+      213: -3881282990310940945
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_127
+  - first:
+      213: 8222148837585415258
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_128
+  - first:
+      213: -2832877115271879776
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_129
+  - first:
+      213: -8975933946140382647
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_130
+  - first:
+      213: -521102038485856760
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_131
+  - first:
+      213: 267679236909541049
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_132
+  - first:
+      213: -6257804568247071345
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_133
+  - first:
+      213: 238698808139381457
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_134
+  - first:
+      213: -544637930741637261
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_135
+  - first:
+      213: -9189529096174423760
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_136
+  - first:
+      213: -1337150909361900301
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_137
+  - first:
+      213: 1151485476131502839
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_138
+  - first:
+      213: -4273195894064203098
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_139
+  - first:
+      213: 755001399292065346
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_140
+  - first:
+      213: -1413374147207502472
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_141
+  - first:
+      213: -4566372600938798598
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_142
+  - first:
+      213: -2180027236138258765
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_143
+  - first:
+      213: 4465347755925326574
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_144
+  - first:
+      213: -5342145049292060579
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_145
+  - first:
+      213: 6125284257993765553
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_146
+  - first:
+      213: 2472007431351380230
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_147
+  - first:
+      213: 8637336463765657823
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_148
+  - first:
+      213: -26526177112063281
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_149
+  - first:
+      213: 8881308960680525854
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_150
+  - first:
+      213: -8198755307897787639
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_151
+  - first:
+      213: -1108054201436289261
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_152
+  - first:
+      213: -6984111195303251334
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_153
+  - first:
+      213: 4107628928879928344
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_154
+  - first:
+      213: 5941881895598221770
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_155
+  - first:
+      213: -3723850628425853251
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_156
+  - first:
+      213: 2658714602748077267
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_157
+  - first:
+      213: 7725803661370856417
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_158
+  - first:
+      213: 3437708649430763562
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_159
+  - first:
+      213: 3798386154394551325
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_160
+  - first:
+      213: -978580726084437715
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_161
+  - first:
+      213: -7036675023398362805
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_162
+  - first:
+      213: 2864024692694827567
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_163
+  - first:
+      213: -6696874655041588910
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_164
+  - first:
+      213: 9085846223449233595
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_165
+  - first:
+      213: 6976641238593479800
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_166
+  - first:
+      213: -7932786268655296193
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_167
+  - first:
+      213: -5555061958518956332
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_168
+  - first:
+      213: -2725651214338374003
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_169
+  - first:
+      213: -4328290578692655335
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_170
+  - first:
+      213: 8973756794080485019
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_171
+  - first:
+      213: -1725025153799460358
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_172
+  - first:
+      213: -2970950580828667063
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_173
+  - first:
+      213: 6359299702349820410
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_174
+  - first:
+      213: -4165447548343142912
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_175
+  - first:
+      213: 4227775131398142783
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_176
+  - first:
+      213: -8618981713034394481
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_177
+  - first:
+      213: 7273431508083950162
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_178
+  - first:
+      213: -638871463319747205
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_179
+  - first:
+      213: 969371109195543185
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_180
+  - first:
+      213: -2179763078999788360
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_181
+  - first:
+      213: -8657162075734743767
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_182
+  - first:
+      213: 5090867601915215376
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_183
+  - first:
+      213: -6346032083742478960
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_184
+  - first:
+      213: 7195831538988343688
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_185
+  - first:
+      213: 5821632231725860770
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_186
+  - first:
+      213: -8205271354265459108
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_187
+  - first:
+      213: -7700144851637950531
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_188
+  - first:
+      213: -3527994446543084058
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_189
+  - first:
+      213: -7543353975646383658
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_190
+  - first:
+      213: 6384160090867122838
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_191
+  - first:
+      213: -5149541213472164493
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_192
+  - first:
+      213: -8049056191092701991
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_193
+  - first:
+      213: 7694433674982671830
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_194
+  - first:
+      213: 8180915119337842731
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_195
+  - first:
+      213: -3564607739174654032
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_196
+  - first:
+      213: 1434575613085385657
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_197
+  - first:
+      213: -2367538659734387572
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_198
+  - first:
+      213: 3253092962020076438
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_199
+  - first:
+      213: 8773395668793848858
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_200
+  - first:
+      213: 5262000848879714286
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_201
+  - first:
+      213: 8542752616894377730
+    second: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_202
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84624aff099afa2e0800000000000000
+      internalID: -2112283259984140728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1324
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a447c6541d9b17d0800000000000000
+      internalID: -2946588820503051101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1375
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621ec7d6969a6db0800000000000000
+      internalID: -4797856878399974806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk02
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1324
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447b920b3e764e130800000000000000
+      internalID: 3595112630159259460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle03
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1375
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e81742b857c3d50800000000000000
+      internalID: 6718373984602263157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle04
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1375
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5a5c834a0d9d5c0800000000000000
+      internalID: -4190088574545844741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle05
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1375
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ade6398ccf4f60800000000000000
+      internalID: 8020854351074272711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle06
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1375
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1fd1f51f66c1ab0800000000000000
+      internalID: -5036037096438107705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle07
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1375
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b929857001044710800000000000000
+      internalID: 1676466062772218288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle08
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1375
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a3f60b242692a0800000000000000
+      internalID: -6731152825839803574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk06
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1324
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d7eb068219a580800000000000000
+      internalID: -8815494428666376072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk07
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1325
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a31626f227750880800000000000000
+      internalID: -8645372917625515101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk08
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1326
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c405266bdd4980800000000000000
+      internalID: -8552938885552488313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk09
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1327
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b068b55d92bcfb5b0800000000000000
+      internalID: -5350334451759217141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1325
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2927767273e954d70800000000000000
+      internalID: 9026794987855508114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1324
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7c2247e7ab13210800000000000000
+      internalID: 1311034018818607058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1324
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869e699bed81bcd0800000000000000
+      internalID: -2544096271456627064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk04
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1325
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9966bd3e330879430800000000000000
+      internalID: 3789638571810055833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk05
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1324
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234b37961af34bef0800000000000000
+      internalID: -93379729776462798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack06
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1251
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77315feded9a1b810800000000000000
+      internalID: 1779390102476493687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack07
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1251
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a95852f7164390800000000000000
+      internalID: -7834548172132603534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1252
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277acc86e513e1000800000000000000
+      internalID: 8498530856249202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack02
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1254
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806425404700b260800000000000000
+      internalID: 7111191784237326472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack03
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1254
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd84517b2377af0800000000000000
+      internalID: -398794280081499256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack04
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1252
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9dcfad1f6e19c30800000000000000
+      internalID: 4364523440334232018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack05
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1254
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dacdc1c34be42f0800000000000000
+      internalID: -986653098072298098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack08
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1251
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce863fb4aa6080b30800000000000000
+      internalID: 4253657176539883756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack09
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1251
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84530885b31ae1b30800000000000000
+      internalID: 4260019573799007560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1252
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f800389d12561290800000000000000
+      internalID: -7920052607623624461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1251
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db783a65902ba07d0800000000000000
+      internalID: -2951350852609931331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff9c77795817140800000000000000
+      internalID: 4715697170429902613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341f84c8a86f55a0800000000000000
+      internalID: -6530385860602424258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185a4f61b63be3980800000000000000
+      internalID: -8557204969429359231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d4c9bd12ee05e90800000000000000
+      internalID: -7038864388394300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc5a0c11b51bfb90800000000000000
+      internalID: -7207142928252511019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3798ff495db760520800000000000000
+      internalID: 2667955986521622899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299778e9659315f0800000000000000
+      internalID: -787121227755448032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atack19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1187
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088f72eb53396480800000000000000
+      internalID: -8905530318413395953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1119
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ad59343a25e340800000000000000
+      internalID: 4892362973997015607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1119
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d15041f56aba70800000000000000
+      internalID: 8843492905136017496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1119
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d896fc65657959c50800000000000000
+      internalID: 6671404820098673037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1119
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e408d3308dd4d9e0800000000000000
+      internalID: -1597408425114336029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1119
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae293f3eff57e660800000000000000
+      internalID: 7415000857075855013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1119
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431aa154d50b42f50800000000000000
+      internalID: 6855798447402557748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1119
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c27975abfb895010800000000000000
+      internalID: 1178126690463347393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1119
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1602e3e8fd7e7afe0800000000000000
+      internalID: -1177717830183935903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1119
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0023501eeb0607ed0800000000000000
+      internalID: -2418326626962689536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1119
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2a10e63dcabd470800000000000000
+      internalID: 8420513952382952171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1119
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2751f99323de890c0800000000000000
+      internalID: -4568641021996493454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_49
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1119
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688dbe10b5bf3c4c0800000000000000
+      internalID: -4268291653524268922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_51
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1119
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58418ef1cc381c30800000000000000
+      internalID: 4330277845612972127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_53
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1119
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31172a7ef17d31e20800000000000000
+      internalID: 3320233882332328211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_54
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1119
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe7947a99964f10800000000000000
+      internalID: 2253657552205638607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_55
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1119
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472fc756926fcdd70800000000000000
+      internalID: 9069394407274115700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1057
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4883f58e9afa9e40800000000000000
+      internalID: 5664115040130926668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1057
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa210446c17205d50800000000000000
+      internalID: 6723917246558638762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit03
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1055
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76a57d8606c38640800000000000000
+      internalID: 5081122536049452669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit04
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64515def5ff68b730800000000000000
+      internalID: 4015082170133845318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit05
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1057
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8254c6c05e5ff4d50800000000000000
+      internalID: 6723863132792177960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1005
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d2c40d57595c70800000000000000
+      internalID: 8960288990653765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1005
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664c89fefaad36bd0800000000000000
+      internalID: -2638024507535080346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1004
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8e1582a33f3a50800000000000000
+      internalID: 6502973160057375422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1003
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954dae8153a78bb0800000000000000
+      internalID: -4933795296079690341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1007
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640b8dd752e641c0800000000000000
+      internalID: -4519676309012806556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_67
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1003
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28fe50663812c80800000000000000
+      internalID: -8349247759958703389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1004
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34068675fa331420800000000000000
+      internalID: 2599486235852801086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 875
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305953a291f5510800000000000000
+      internalID: 1539977266662278122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 877
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d412fa8a6b6c95c60800000000000000
+      internalID: 7807489916839862605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_71
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 877
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a354b227facbcb0800000000000000
+      internalID: -4846806194070406638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 875
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f29ff229d8d4c20800000000000000
+      internalID: 3192363369885150981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_73
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 876
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ea4fcf92cad88c0800000000000000
+      internalID: -3995347998070231458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_74
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 876
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67afaf7079c388e0800000000000000
+      internalID: -1692287549945436306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_75
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 877
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eaa07b0d63e7da0800000000000000
+      internalID: -5945254188030448052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_76
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 876
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dcc9316de5a1fc0800000000000000
+      internalID: -3523399484918936319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_77
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 878
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e68786d75ea6670800000000000000
+      internalID: 8532884770793221633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_78
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 878
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7400925470a6a400800000000000000
+      internalID: 335131643747501180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_79
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 875
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c1190b50a0f1c0800000000000000
+      internalID: -4471898117124274277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_80
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 875
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f0a657224bf090800000000000000
+      internalID: -7999727576369008237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_81
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 876
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c335102a8d0282520800000000000000
+      internalID: 2677426093274780476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_82
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 877
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a5c5b71fac06e0800000000000000
+      internalID: -1869927228896859794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_83
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 875
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c1bf25c9e6be260800000000000000
+      internalID: 7127912452930083899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_84
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 875
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bb2b6577d9dc20800000000000000
+      internalID: 3231851106924214271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 755
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6a40985fdc3e00800000000000000
+      internalID: 1025940386604543908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 755
+        width: 125
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e005314c4baed0800000000000000
+      internalID: -2401742133326190535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 755
+        width: 124
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d85963dadfd2050800000000000000
+      internalID: 5777552817373154643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 755
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311d97ac2e591a10800000000000000
+      internalID: 1880637865287553328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 755
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46c02a814efd570800000000000000
+      internalID: 8493758216693114092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 755
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71878f9ddc932a0800000000000000
+      internalID: -6757143429832501253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 627
+        width: 124
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b019d86c8bdb88120800000000000000
+      internalID: 2416389801387069707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 627
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef215401aa579e500800000000000000
+      internalID: 426001013041074942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 627
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d263b08f750ddb0800000000000000
+      internalID: -4769215282533749415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_94
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 627
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69a6bb436c113d0800000000000000
+      internalID: -3237588727317752155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 494
+        width: 142
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849f7ad911d2bf20800000000000000
+      internalID: 3437039374607291530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_96
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 627
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66343dd891da81a0800000000000000
+      internalID: -6806397432340662673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_97
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 627
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f510be93a681ace70800000000000000
+      internalID: 9136141638591775071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_98
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 627
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0904bcd44d098b0800000000000000
+      internalID: -5147380943496900358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_99
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 627
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d3d83764182210800000000000000
+      internalID: 1308318125318722527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_100
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 627
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f70b0c8375165370800000000000000
+      internalID: 8310853748373784561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_101
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 627
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328b4f690faf3030800000000000000
+      internalID: 3476689892410098225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_102
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 627
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8611cb079d1c70800000000000000
+      internalID: 8943470511767587914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_103
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 627
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70975fbdf4b97980800000000000000
+      internalID: -8540596216401522562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_104
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 494
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48b847e8a31baee0800000000000000
+      internalID: -1248882855509444532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 493
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aeeee02a3a6c370800000000000000
+      internalID: 8342535276180990506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_106
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 492
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494ef6c2615a7df00800000000000000
+      internalID: 1141562545215104148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_107
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 492
+        width: 168
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc7939cb3f617e20800000000000000
+      internalID: 3346578300682730672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_108
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 494
+        width: 165
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b864d09d5ce99c0800000000000000
+      internalID: -3918477089744450788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 360
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2fbdc14f3223910800000000000000
+      internalID: 1815553131146900141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 362
+        width: 135
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3699b4de26176d640800000000000000
+      internalID: 5104391897372924259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_111
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 359
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5601a6bfac12ff0800000000000000
+      internalID: -62545738641414686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_112
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 361
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c306db5d2f2100800000000000000
+      internalID: 85336790399172998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_113
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 359
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d458f033457cf20c0800000000000000
+      internalID: -4598237530074151603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_114
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 359
+        width: 156
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ceb53eef2f34130800000000000000
+      internalID: 3549948107848150025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_115
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 359
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdbb5d3c3ab31ac0800000000000000
+      internalID: -3885557285600379394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 359
+        width: 158
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27a290be45370cb0800000000000000
+      internalID: -4897887457656002770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_117
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 361
+        width: 165
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77037c83be3176310800000000000000
+      internalID: 1398108110312648823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 124
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb6b8a07a99f70e0800000000000000
+      internalID: -2269926744455943183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_119
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 239
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa85f6350dd215e0800000000000000
+      internalID: -1940245474976626015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a19dba1d2a0cb60800000000000000
+      internalID: 7764384779001731590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_121
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 239
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60466651dcd8dae90800000000000000
+      internalID: -7012793132779150330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_122
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 239
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e37ded2602b560800000000000000
+      internalID: 7327926338012309050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_123
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 239
+        width: 131
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215de7fcea56b580800000000000000
+      internalID: -8811755647085489874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_124
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 123
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51e7e7d55fd1200800000000000000
+      internalID: 152547744303420844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_125
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 239
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a853b66841fe05d0800000000000000
+      internalID: -3094270600693983067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_126
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 239
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb3130f5524290a0800000000000000
+      internalID: -6876360744171914303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_127
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 239
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee10c92fa9e22ac0800000000000000
+      internalID: -3881282990310940945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_128
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 239
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6ba21ec0fa1270800000000000000
+      internalID: 8222148837585415258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_129
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 239
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3e2ebd5499fa8d0800000000000000
+      internalID: -2832877115271879776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 123
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aaeece1a31f6380800000000000000
+      internalID: -8975933946140382647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_131
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 125
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8158f47ca4c8f0800000000000000
+      internalID: -521102038485856760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_132
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 123
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6adb509dcf6b300800000000000000
+      internalID: 267679236909541049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_133
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 123
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d01d386efc729a0800000000000000
+      internalID: -6257804568247071345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_151
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b67608c7b283e80800000000000000
+      internalID: -8198755307897787639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_152
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c28313966f90f0800000000000000
+      internalID: -1108054201436289261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_153
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72fe1c0fd3731f90800000000000000
+      internalID: -6984111195303251334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_154
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814a1076fba310930800000000000000
+      internalID: 4107628928879928344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_155
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e4744a1ec57250800000000000000
+      internalID: 5941881895598221770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_156
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6df005599325cc0800000000000000
+      internalID: -3723850628425853251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_157
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d461ff38d6a5e420800000000000000
+      internalID: 2658714602748077267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_158
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31c683f71973b60800000000000000
+      internalID: 7725803661370856417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_159
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 73
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28cb9a8dc135bf20800000000000000
+      internalID: 3437708649430763562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_174
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1fec2e265c04850800000000000000
+      internalID: 6359299702349820410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_184
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d2c4b417d5ee7a0800000000000000
+      internalID: -6346032083742478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_185
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881e3f8d8aabcd360800000000000000
+      internalID: 7195831538988343688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_186
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70cf0aba79ac050800000000000000
+      internalID: 5821632231725860770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_187
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a15b3d25012e80800000000000000
+      internalID: -8205271354265459108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_188
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db72117fd07932590800000000000000
+      internalID: -7700144851637950531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_189
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5af343ebb0a0fc0800000000000000
+      internalID: -3527994446543084058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_191
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6924c5527c7199850800000000000000
+      internalID: 6384160090867122838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_196
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfe2e6b528f78ec0800000000000000
+      internalID: -3564607739174654032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 71
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78cf1ef95b57445bcb75c27c665852
+      internalID: 1438763631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a75ef86b40afd3459e2c46e1a3d2ad2
+      internalID: -708754454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544cff6b501dc64f8be34e2b32df2af
+      internalID: 804013676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_134
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d32453f311a3d428e76dbada8b7561
+      internalID: -78825461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f3d6991432d11d248b1153abc9a8588c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_134: -78825461
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_50: 1438763631
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_52: -708754454
+      3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Marceline_56: 804013676
+      Atack01: 8498530856249202
+      Atack02: 7111191784237326472
+      Atack03: -398794280081499256
+      Atack04: 4364523440334232018
+      Atack05: -986653098072298098
+      Atack06: 1779390102476493687
+      Atack07: -7834548172132603534
+      Atack08: 4253657176539883756
+      Atack09: 4260019573799007560
+      Atack10: -7920052607623624461
+      Atack11: -2951350852609931331
+      Atack12: 4715697170429902613
+      Atack13: -6530385860602424258
+      Atack14: -8557204969429359231
+      Atack15: -7038864388394300086
+      Atack16: -7207142928252511019
+      Atack17: 2667955986521622899
+      Atack18: -787121227755448032
+      Atack19: -8905530318413395953
+      GetHit01: 5664115040130926668
+      GetHit02: 6723917246558638762
+      GetHit03: 5081122536049452669
+      GetHit04: 4015082170133845318
+      GetHit05: 6723863132792177960
+      Idle01: -2112283259984140728
+      Idle02: -4797856878399974806
+      Idle03: 6718373984602263157
+      Idle04: -4190088574545844741
+      Idle05: 8020854351074272711
+      Idle06: -5036037096438107705
+      Idle07: 1676466062772218288
+      Idle08: -6731152825839803574
+      Walk01: -2946588820503051101
+      Walk02: 3595112630159259460
+      Walk03: -2544096271456627064
+      Walk04: 3789638571810055833
+      Walk05: -93379729776462798
+      Walk06: -8815494428666376072
+      Walk07: -8645372917625515101
+      Walk08: -8552938885552488313
+      Walk09: -5350334451759217141
+      Walk10: 9026794987855508114
+      Walk11: 1311034018818607058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
