@@ -20331,6 +20331,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 187581547}
+    - target: {fileID: 7670420476774611083, guid: e3c615e3cf55d434391ca38231c183bf, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 535177673d1b77296b798aa578a89d91, type: 3}
+    - target: {fileID: 7670420476774611083, guid: e3c615e3cf55d434391ca38231c183bf, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 535177673d1b77296b798aa578a89d91, type: 3}
+    - target: {fileID: 7670420476774611083, guid: e3c615e3cf55d434391ca38231c183bf, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

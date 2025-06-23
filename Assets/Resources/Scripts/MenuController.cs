@@ -53,7 +53,7 @@ public class MenuController : MonoBehaviour
     {
         audioSource.PlayOneShot(audioClipBoton);
         Debug.Log("Iniciar Juego");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(EscenaSeleccionada);
     }
 
     public void nextPersonaje()
