@@ -9,6 +9,8 @@ TagManager:
   - heart
   - agua
   - LimitBottom
+  - Espada
+  - boos
   layers:
   - Default
   - TransparentFX
